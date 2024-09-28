@@ -1,0 +1,28 @@
+09/28/2024 22:32:21|19
+Type Order
+Microsoft.CodeAnalysis.EmbeddedAttribute
+System.Runtime.CompilerServices.RefSafetyRulesAttribute
+ModName.LogSystem.ModLogger
+ModName.LogSystem.Loggers.DevConsoleLogger
+ModName.LogSystem.Loggers.ImGuiLogger
+ModName.Interfaces.IInjectDrawable
+ModName.Interfaces.IInjectUpdateable
+ModName.Interfaces.ILogger
+ModName.Example.ExampleMenu
+ModName.Example.ExampleTheme
+ModName.Core.WinApi.WinCursor
+ModName.Core.ModSetup.ModInitialize
+ModName.Core.ModSetup.ModName
+ModName.Core.ModSetup.AssemblyLoading.AssemblyLoader
+ModName.Core.ModSetup.AssemblyLoading.NativeDllLoader
+ModName.Core.Injectors.DrawableSelfInjector
+ModName.Core.Injectors.UpdateableSelfInjector
+ModName.Core.ImGuiAdapter.DrawVertDeclaration
+ModName.Core.ImGuiAdapter.ImGuiRenderer
+ModName.Core.Factories.DrawableFactory
+ModName.Core.Factories.UpdateableFactory
+ModName.LogSystem.ModLogger+<>c__DisplayClass1_0
+ModName.LogSystem.ModLogger+<>c__DisplayClass2_0
+ModName.LogSystem.ModLogger+<>c__DisplayClass3_0
+ModName.Core.Factories.DrawableFactory+<>c
+ModName.Core.Factories.UpdateableFactory+<>c

@@ -1,0 +1,45 @@
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.CopyComplete
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\ModName.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\ModName.pdb
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\ModName.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\ModName.pdb
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGInput.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGSteam.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGInput.pdb
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGSteam.pdb
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\ModName.dll
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\ModName.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.Up2Date
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\ModName.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\ModName.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\ModName.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\ModName.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\DuckGame.exe
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\NAudio.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\NVorbis.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\CrashWindow.exe
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\NVorbis.NAudioSupport.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\DGInput.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\DGSteam.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\DuckGame.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\DuckGame.xml
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\DuckGame.exe.config
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\NAudio.xml
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\CrashWindow.pdb
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\CrashWindow.exe.config
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\ModName.dll.config
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\System.Buffers.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\System.Numerics.Vectors.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\System.Buffers.xml
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\System.Numerics.Vectors.xml
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\cimgui.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\ImGui.NET.dll
+C:\Users\Kotoxik\AppData\Roaming\DuckGame\Mods\ModName\ImGui.NET.xml
