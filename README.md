@@ -4,6 +4,13 @@
 
 This project is a template for creating mods for Duck Game. It provides examples and guidelines to help you get started with mod development, including creating custom themes, menus, and loggers.
 
+## Features
+- **Updateable and Drawable classes**: Create custom classes that can be updated and drawn in the game.
+- **ImGui menus**: Create custom menus using ImGui.
+- **Custom themes**: Create custom themes for ImGui.
+- **Custom loggers**: Create custom loggers for logging messages in the game.
+- **Shared DLLs**: Add custom libraries to the `Content/SharedDlls` directory to be loaded in the game.
+
 ## Getting Started
 
 To get started with your mod, follow these steps:
